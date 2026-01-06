@@ -1,5 +1,12 @@
 # 📊 Intellectus – Student Risk Analysis System
+## 🌐 Live Demo
 
+🔗 https://Anuz-bit.github.io/Intellectus
+
+> Note:  
+> The live demo showcases the frontend UI deployed via GitHub Pages.  
+> The FastAPI + Machine Learning backend is designed for local execution and is fully documented in this repository.
+---
 Intellectus is a **student risk analysis web application** that helps educational institutions identify **at-risk students early** using academic and activity data.
 
 The system uses **Machine Learning** to analyze uploaded datasets and provides insights that can support **timely academic interventions**.
